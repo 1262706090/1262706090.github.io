@@ -3,34 +3,36 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://www.ykzzo.com/categories/</loc>
+    <lastmod>2024-06-25T20:09:04+08:00</lastmod>
+  </url><url>
+    <loc>https://www.ykzzo.com/categories/learningnotes/</loc>
+    <lastmod>2024-06-25T20:09:04+08:00</lastmod>
+  </url><url>
+    <loc>https://www.ykzzo.com/tags/markdown/</loc>
     <lastmod>2024-06-24T20:13:23+08:00</lastmod>
   </url><url>
-    <loc>https://www.ykzzo.com/categories/category-1/</loc>
-    <lastmod>2024-06-24T20:13:23+08:00</lastmod>
-  </url><url>
-    <loc>https://www.ykzzo.com/categories/category-2/</loc>
+    <loc>https://www.ykzzo.com/posts/learningnotes/markdown%E8%AF%AD%E6%B3%95%E5%8F%8A%E5%BF%AB%E6%8D%B7%E9%94%AE/</loc>
     <lastmod>2024-06-24T20:13:23+08:00</lastmod>
   </url><url>
     <loc>https://www.ykzzo.com/posts/</loc>
-    <lastmod>2024-06-24T20:13:23+08:00</lastmod>
-  </url><url>
-    <loc>https://www.ykzzo.com/tags/tag-1/</loc>
-    <lastmod>2024-06-24T20:13:23+08:00</lastmod>
-  </url><url>
-    <loc>https://www.ykzzo.com/tags/tag-2/</loc>
-    <lastmod>2024-06-24T20:13:23+08:00</lastmod>
+    <lastmod>2024-06-25T20:09:04+08:00</lastmod>
   </url><url>
     <loc>https://www.ykzzo.com/tags/</loc>
-    <lastmod>2024-06-24T20:13:23+08:00</lastmod>
-  </url><url>
-    <loc>https://www.ykzzo.com/posts/test/</loc>
-    <lastmod>2024-06-24T20:13:23+08:00</lastmod>
+    <lastmod>2024-06-25T20:09:04+08:00</lastmod>
   </url><url>
     <loc>https://www.ykzzo.com/</loc>
-    <lastmod>2024-06-24T20:13:23+08:00</lastmod>
+    <lastmod>2024-06-25T20:09:04+08:00</lastmod>
+  </url><url>
+    <loc>https://www.ykzzo.com/tags/javaweb/</loc>
+    <lastmod>2024-06-25T20:09:04+08:00</lastmod>
+  </url><url>
+    <loc>https://www.ykzzo.com/posts/learningnotes/javaweb/</loc>
+    <lastmod>2024-06-25T20:09:04+08:00</lastmod>
   </url><url>
     <loc>https://www.ykzzo.com/archives/</loc>
+    <lastmod>2024-06-24T16:34:48+08:00</lastmod>
   </url><url>
     <loc>https://www.ykzzo.com/search/</loc>
+    <lastmod>2024-06-22T17:03:27+08:00</lastmod>
   </url>
 </urlset>
