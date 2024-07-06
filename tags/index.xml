@@ -9,22 +9,15 @@
       <url>https://www.ykzzo.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://www.ykzzo.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
-    <generator>Hugo -- 0.128.0</generator>
+    <generator>Hugo -- 0.128.2</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 26 Jun 2024 10:56:15 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 25 Jun 2024 20:09:04 +0800</lastBuildDate>
     <atom:link href="https://www.ykzzo.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Markdown</title>
       <link>https://www.ykzzo.com/tags/markdown/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 24 Jun 2024 20:13:23 +0800</pubDate>
       <guid>https://www.ykzzo.com/tags/markdown/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>JavaWeb</title>
-      <link>https://www.ykzzo.com/tags/javaweb/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.ykzzo.com/tags/javaweb/</guid>
       <description></description>
     </item>
   </channel>
