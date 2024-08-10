@@ -9,15 +9,29 @@
       <url>https://www.ykzzo.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://www.ykzzo.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
-    <generator>Hugo -- 0.128.0</generator>
+    <generator>Hugo -- 0.127.0</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 26 Jun 2024 09:56:35 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jul 2024 11:14:43 +0800</lastBuildDate>
     <atom:link href="https://www.ykzzo.com/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>LearningNotes</title>
-      <link>https://www.ykzzo.com/categories/learningnotes/</link>
+      <title>Algorithm</title>
+      <link>https://www.ykzzo.com/categories/algorithm/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.ykzzo.com/categories/learningnotes/</guid>
+      <guid>https://www.ykzzo.com/categories/algorithm/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Browser-Extensions</title>
+      <link>https://www.ykzzo.com/categories/browser-extensions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.ykzzo.com/categories/browser-extensions/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Markdown</title>
+      <link>https://www.ykzzo.com/categories/markdown/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.ykzzo.com/categories/markdown/</guid>
       <description></description>
     </item>
   </channel>

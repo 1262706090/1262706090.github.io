@@ -9,22 +9,64 @@
       <url>https://www.ykzzo.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://www.ykzzo.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
-    <generator>Hugo -- 0.128.0</generator>
+    <generator>Hugo -- 0.127.0</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 26 Jun 2024 09:56:35 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jul 2024 11:14:43 +0800</lastBuildDate>
     <atom:link href="https://www.ykzzo.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Algorithm</title>
+      <link>https://www.ykzzo.com/tags/algorithm/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.ykzzo.com/tags/algorithm/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>ActiveX</title>
+      <link>https://www.ykzzo.com/tags/activex/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.ykzzo.com/tags/activex/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>C#</title>
+      <link>https://www.ykzzo.com/tags/c%23/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.ykzzo.com/tags/c%23/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>COM 编程</title>
+      <link>https://www.ykzzo.com/tags/com-%E7%BC%96%E7%A8%8B/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.ykzzo.com/tags/com-%E7%BC%96%E7%A8%8B/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>OCX</title>
+      <link>https://www.ykzzo.com/tags/ocx/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.ykzzo.com/tags/ocx/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Windows 编程</title>
+      <link>https://www.ykzzo.com/tags/windows-%E7%BC%96%E7%A8%8B/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.ykzzo.com/tags/windows-%E7%BC%96%E7%A8%8B/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>浏览器插件</title>
+      <link>https://www.ykzzo.com/tags/%E6%B5%8F%E8%A7%88%E5%99%A8%E6%8F%92%E4%BB%B6/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.ykzzo.com/tags/%E6%B5%8F%E8%A7%88%E5%99%A8%E6%8F%92%E4%BB%B6/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Markdown</title>
       <link>https://www.ykzzo.com/tags/markdown/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://www.ykzzo.com/tags/markdown/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>JavaWeb</title>
-      <link>https://www.ykzzo.com/tags/javaweb/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.ykzzo.com/tags/javaweb/</guid>
       <description></description>
     </item>
   </channel>
